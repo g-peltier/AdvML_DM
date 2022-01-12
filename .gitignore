@@ -3,3 +3,5 @@ data/*
 .DS_Store
 
 !data/README.md
+!data/res_hyper.npz
+/libfm/
